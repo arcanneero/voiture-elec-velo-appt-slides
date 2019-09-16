@@ -1,0 +1,317 @@
+html.horizontal.top body{
+    background-repeat: no-repeat;
+    background-size: 100% 35%;
+    background-position: center top;
+}
+
+html.horizontal.top section.present:not(.stack) {
+    margin-top: 100px;
+}
+
+html.horizontal.bottom body{
+    background-repeat: no-repeat;
+    background-size: 100% 35%;
+    background-position: center bottom;
+}
+
+html.horizontal.bottom section.present:not(.stack) {
+    margin-bottom: 100px;
+}
+
+html.horizontal.top.abstrait2 body{
+    background-image: url("abstrait2.jpg");
+}
+
+html.horizontal.bottom.abstrait2 body{
+    background-image: url("abstrait2.jpg");
+}
+
+
+html.horizontal.top.ampoules body{
+    background-image: url("ampoules.jpg");
+}
+
+html.horizontal.bottom.ampoules body{
+    background-image: url("ampoules.jpg");
+}
+
+
+html.horizontal.top.auto_stop body{
+    background-image: url("auto_stop.jpg");
+}
+
+html.horizontal.bottom.auto_stop body{
+    background-image: url("auto_stop.jpg");
+}
+
+
+html.horizontal.top.businessman body{
+    background-image: url("businessman.jpg");
+}
+
+html.horizontal.bottom.businessman body{
+    background-image: url("businessman.jpg");
+}
+
+
+html.horizontal.top.camera body{
+    background-image: url("camera.jpg");
+}
+
+html.horizontal.bottom.camera body{
+    background-image: url("camera.jpg");
+}
+
+
+html.horizontal.top.ciel body{
+    background-image: url("ciel.jpg");
+}
+
+html.horizontal.bottom.ciel body{
+    background-image: url("ciel.jpg");
+}
+
+
+html.horizontal.top.clavier body{
+    background-image: url("clavier.jpg");
+}
+
+html.horizontal.bottom.clavier body{
+    background-image: url("clavier.jpg");
+}
+
+
+html.horizontal.top.conf body{
+    background-image: url("conf.jpg");
+}
+
+html.horizontal.bottom.conf body{
+    background-image: url("conf.jpg");
+}
+
+
+html.horizontal.top.electronic body{
+    background-image: url("electronic.jpg");
+}
+
+html.horizontal.bottom.electronic body{
+    background-image: url("electronic.jpg");
+}
+
+
+html.horizontal.top.face_au_lac body{
+    background-image: url("face_au_lac.jpg");
+}
+
+html.horizontal.bottom.face_au_lac body{
+    background-image: url("face_au_lac.jpg");
+}
+
+
+html.horizontal.top.fenetre body{
+    background-image: url("fenetre.jpg");
+}
+
+html.horizontal.bottom.fenetre body{
+    background-image: url("fenetre.jpg");
+}
+
+
+html.horizontal.top.fenetres_nuit body{
+    background-image: url("fenetres_nuit.jpg");
+}
+
+html.horizontal.bottom.fenetres_nuit body{
+    background-image: url("fenetres_nuit.jpg");
+}
+
+
+html.horizontal.top.fleurs_rouges body{
+    background-image: url("fleurs_rouges.jpg");
+}
+
+html.horizontal.bottom.fleurs_rouges body{
+    background-image: url("fleurs_rouges.jpg");
+}
+
+
+html.horizontal.top.fougeres body{
+    background-image: url("fougeres.jpg");
+}
+
+html.horizontal.bottom.fougeres body{
+    background-image: url("fougeres.jpg");
+}
+
+
+html.horizontal.top.gitlab_mr body{
+    background-image: url("gitlab_mr.jpg");
+}
+
+html.horizontal.bottom.gitlab_mr body{
+    background-image: url("gitlab_mr.jpg");
+}
+
+
+html.horizontal.top.hexagones1 body{
+    background-image: url("hexagones1.jpg");
+}
+
+html.horizontal.bottom.hexagones1 body{
+    background-image: url("hexagones1.jpg");
+}
+
+
+html.horizontal.top.hexagones2 body{
+    background-image: url("hexagones2.jpg");
+}
+
+html.horizontal.bottom.hexagones2 body{
+    background-image: url("hexagones2.jpg");
+}
+
+html.horizontal.top.idee body{
+    background-image: url("idee.jpg");
+}
+
+html.horizontal.bottom.idee body{
+    background-image: url("idee.jpg");
+}
+
+
+html.horizontal.top.keyboard body{
+    background-image: url("keyboard.jpg");
+}
+
+html.horizontal.bottom.keyboard body{
+    background-image: url("keyboard.jpg");
+}
+
+
+html.horizontal.top.lock body{
+    background-image: url("lock.jpg");
+}
+
+html.horizontal.bottom.lock body{
+    background-image: url("lock.jpg");
+}
+
+
+html.horizontal.top.min_js body{
+    background-image: url("min_js.jpg");
+}
+
+html.horizontal.bottom.min_js body{
+    background-image: url("min_js.jpg");
+}
+
+
+html.horizontal.top.montagne body{
+    background-image: url("montagne.jpg");
+}
+
+html.horizontal.bottom.montagne body{
+    background-image: url("montagne.jpg");
+}
+
+
+html.horizontal.top.password_check body{
+    background-image: url("password_check.jpg");
+}
+
+html.horizontal.bottom.password_check body{
+    background-image: url("password_check.jpg");
+}
+
+
+html.horizontal.top.plante body{
+    background-image: url("plante.jpg");
+}
+
+html.horizontal.bottom.plante body{
+    background-image: url("plante.jpg");
+}
+
+
+html.horizontal.top.plantes_grasses body{
+    background-image: url("plantes_grasses.jpg");
+}
+
+html.horizontal.bottom.plantes_grasses body{
+    background-image: url("plantes_grasses.jpg");
+}
+
+
+html.horizontal.top.poissons body{
+    background-image: url("poissons.jpg");
+}
+
+html.horizontal.bottom.poissons body{
+    background-image: url("poissons.jpg");
+}
+
+
+html.horizontal.top.police body{
+    background-image: url("police.jpg");
+}
+
+html.horizontal.bottom.police body{
+    background-image: url("police.jpg");
+}
+
+
+html.horizontal.top.pont body{
+    background-image: url("pont.jpg");
+}
+
+html.horizontal.bottom.pont body{
+    background-image: url("pont.jpg");
+}
+
+
+html.horizontal.top.ponton body{
+    background-image: url("ponton.jpg");
+}
+
+html.horizontal.bottom.ponton body{
+    background-image: url("ponton.jpg");
+}
+
+
+html.horizontal.top.secure_chalkboard_locks body{
+    background-image: url("secure_chalkboard_locks.jpg");
+}
+
+html.horizontal.bottom.secure_chalkboard_locks body{
+    background-image: url("secure_chalkboard_locks.jpg");
+}
+
+
+html.horizontal.top.serveur body{
+    background-image: url("serveur.jpg");
+}
+
+html.horizontal.bottom.serveur body{
+    background-image: url("serveur.jpg");
+}
+
+
+html.horizontal.top.siege_paris_1 body{
+    background-image: url("siege_paris_1.jpg");
+}
+
+html.horizontal.bottom.siege_paris_1 body{
+    background-image: url("siege_paris_1.jpg");
+}
+
+
+html.horizontal.top.two_factor_authentication body{
+    background-image: url("two_factor_authentication.jpg");
+}
+
+html.horizontal.bottom.two_factor_authentication body{
+    background-image: url("two_factor_authentication.jpg");
+}
+
+
+"
