@@ -45,7 +45,7 @@ Quelques Tweets sur l'événement : https://twitter.com/nicgiro/status/107121955
 
 ### Resources
 
-[Les slides (In progress)]( ./aws-2019/#/)
+[Les slides (In progress)]( ./quickie/#/)
 
 ## Références 
 
