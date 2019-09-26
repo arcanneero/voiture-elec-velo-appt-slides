@@ -1,0 +1,70 @@
+= Le jour J
+
+alias MEP
+
+== Le fil rouge ...
+
+[NOTE.speaker]
+====
+Tic tac...
+
+16h... Lancement à 19h30 !
+
+Le compte à rebour est lancé...
+====
+
+== Montage
+
+[NOTE.speaker]
+====
+* Fixation des capteurs sur les vélos
+* Raccordement aux Arduino
+* Raccordement de l'alimentation
+* Raccordement aux pistes
+====
+
+
+== !
+
+image:images/raccordement.png[composants]
+
+== Paramétrage
+
+[NOTE.speaker]
+====
+* Coefficient de correction
+* Capteurs infrarouge
+====
+
+== Le début de la fin...
+
+== Bilan
+
+Une ligne de puissance KO !
+
+[NOTE.speaker]
+====
+Un mal pour un bien
+
+Quand on a du physique => prévoir des composants de remplacements !
+
+====
+
+== !
+
+[NOTE.speaker]
+====
+Tic tac... +
+Il est 19h... +
+Il va falloire passer à la collecte...
+====
+
+== Chaine de collecte
+
+[NOTE.speaker]
+====
+* Le rasp
+* Attaqquer l'API
+====
+
+

@@ -5,7 +5,8 @@
 [NOTE.speaker]
 ====
 * Un circuit "4 pièces"
-* un perceuse
+* Un perceuse
+* Une lame de carton blanc
 ====
 
 == Pas d'intégration possible
@@ -26,10 +27,89 @@
 * La longeur des pistes
 ====
 
-
-
 == Les composants logiciels
+
+[transition=slide-in fade-out]
+== !
+
+image:images/composants-0.png[composants]
 
 [NOTE.speaker]
 ====
+Pour rappel...
 ====
+
+[transition=fade]
+== !
+
+image:images/composants-1.png[composants]
+
+[NOTE.speaker]
+====
+Commencons par la chaine de traitement de données
+
+* Des capteurs infrarouges (1 par ligne)
+* Une arche
+* Raspberry
+** Call API (Je ne savais pas le faire en Arduino)
+====
+
+[transition=fade]
+== !
+
+image:images/composants-2.png[composants]
+
+[NOTE.speaker]
+====
+Compsants basiques d'une appli orienté Web
+
+* Une API
+** Recueillir les call du Rasp
+** Faire les calculs, persister, et rendre les ihms
+* Une IHM
+** Suivre le défi
+** Server Send Event
+====
+
+[transition=fade]
+== !
+
+image:images/composants-3.png[composants]
+
+[NOTE.speaker]
+====
+* Des capteurs infrarouges (1 par vélo - Problème ?)
+* Un Shield maison
+** Concentrer les branchements
+** Ajouter quelques bouton de paramétrage
+* Arduino
+====
+
+[transition=fade-in slide-out]
+== !
+
+image:images/composants-4.png[composants]
+
+[NOTE.speaker]
+====
+* Un Shield de commande moteur (Commerce) - Hacheur
+* Un Shied  maison lisser le courant
+* Une alimentation de PC
+** Stabilitée absolue (cf baby)
+** Pluggable facilement
+====
+
+[transition=fade-out slide-in]
+== !
+
+image:images/shields.jpg[composants]
+
+[transition=fade]
+== !
+
+image:images/shields-1.jpg[composants]
+
+[transition=fade]
+== !
+
+image:images/shields-2.jpg[composants]
