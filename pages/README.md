@@ -29,16 +29,16 @@ Et cerise sur le gâteau, les aléas techniques m'ont conduit jusqu'à déployer
 	* Compte tour et restitutions
 		* Le retour du raspberry ! - Usage de python pour l'appel d'un service REST
 		* Un peu de dev - Implémentation d'un back springboot, et d'un front Angular
-	* Le jour J, alias MEP (8 min)
-		* Le fil rouge... - Intégrer les composants le jour J : mauvaise idée !
-		* Et si rien ne se passait comme prévu...
-			* Ça marchait sur mon poste - Comment un Firewall peut vite devenir un enfer !
-			* Et je met ça où ? - Présentation du déploiement sur AWS (pourquoi et comment)
-	* Défi relevé ? (5 min)
-		* Bilan du projet - En quelques chiffres
-		* Le dev universel - Ouverture sur l'apport de la pluralité
-		* Nous pouvons tous contribuer... - de l'Open source à l'action caritative
-		
+* Le jour J, alias MEP (8 min)
+    * Le fil rouge... - Intégrer les composants le jour J : mauvaise idée !
+    * Et si rien ne se passait comme prévu...
+        * Ça marchait sur mon poste - Comment un Firewall peut vite devenir un enfer !
+        * Et je met ça où ? - Présentation du déploiement sur AWS (pourquoi et comment)
+* Défi relevé ? (5 min)
+    * Bilan du projet - En quelques chiffres
+    * Le dev universel - Ouverture sur l'apport de la pluralité
+    * Nous pouvons tous contribuer... - de l'Open source à l'action caritative
+    
 ### Compléments
 
 Quelques Tweets sur l'événement : https://twitter.com/nicgiro/status/1071219558613221376

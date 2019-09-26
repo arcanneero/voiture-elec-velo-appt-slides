@@ -1,0 +1,272 @@
+[.part-3.background]
+= Le jour J
+
+alias MEP
+
+[NOTE.speaker]
+====
+Le fil rouge ... +
+Animation continue, et quelque peu centrale...
+====
+
+[.hourglass.background]
+== !
+
+image:images/hourglass.png[hourglass, width=20%]
+
+16h00
+
+[NOTE.speaker]
+====
+Tic tac... +
+16h... Lancement à 19h30 ! +
+Le compte à rebour est lancé...
+====
+
+[.montage.background]
+== !
+
+image:images/full-circuit.jpg[circuits]
+
+[NOTE.speaker]
+====
+Préparation ::
+* Table
+* Circuit
+* Vélos
+* Positionnement
+====
+
+[.montage.background]
+== !
+
+image:images/cablage.jpg[circuits]
+
+[NOTE.speaker]
+====
+Montage ::
+* Fixation des capteurs sur les vélos
+* Raccordement aux Arduino
+* Raccordement de l'alimentation
+* Raccordement aux pistes
+====
+
+[.montage.background]
+== !
+
+image:images/raccordement.png[composants]
+
+[NOTE.speaker]
+====
+* Capteur capte,
+* Envoie ses infoa à l'arduino
+* Commande le shield
+* Qui hash le courant de l'alimentation
+* Qui est redressé par le shield
+* Et envoyé au voitures
+====
+
+
+[.montage.background]
+== !
+
+image:images/parametrage.jpg[composants]
+
+
+[NOTE.speaker]
+====
+* Coefficient de correction
+* Capteurs infrarouge
+====
+
+[.hourglass.background]
+== !
+
+image:images/hourglass.png[hourglass, width=20%]
+
+19h30
+
+[NOTE.speaker]
+====
+Tic tac... +
+Il est 19h... +
+Il va falloire passer à la collecte...
+====
+
+[.succes.background]
+== M(M)VP !!!
+
+image:images/youpi.gif[youpi]
+
+
+[.montage.background]
+== !
+
+image:images/collecte.png[collecte]
+
+[NOTE.speaker]
+====
+Chaine de collecte ::
+* Un vidéo, un cable HDMI/VGA
+* L'API/ lIHM sont sur mon poste
+* Pas prod ready, mais c'est de l'évènementiel
+====
+
+[.problem.background]
+== !
+
+image:images/what.gif[youpi]
+
+[NOTE.speaker]
+====
+* Il semble que le lien fonctionne pas...
+* 2 heures de débug !
+====
+
+
+[.problem.background, transition=slide-in fade-out]
+== !
+
+image:images/link-1.png[link]
+
+[.problem.background, transition=fade]
+== !
+
+image:images/link-2.png[link]
+
+[.problem.background, transition=fade]
+== !
+
+image:images/link-3.png[link]
+
+[.problem.background, transition=fade]
+== !
+
+image:images/link-4.png[link]
+
+[.problem.background, transition=fade]
+== !
+
+image:images/link-5.png[link]
+
+[.problem.background, transition=fade]
+== !
+
+image:images/link-6.png[link]
+
+[.solution.background, transition=fade]
+== !
+
+image:images/link-7.png[link]
+
+[.solution.background, transition=fade]
+== !
+
+image:images/link-8.png[link]
+
+[.hourglass.background]
+== !
+
+image:images/hourglass.png[hourglass, width=20%]
+
+22h00
+
+[NOTE.speaker]
+====
+Tic tac... +
+Il est 22h... +
+Il va falloire passer à la collecte...
+====
+
+[.problem.background]
+== Où déployer ?
+
+[.problem.background]
+== On Premise ?
+
+Pas de machine fiable disponible !
+
+[.problem.background]
+== Cloud ?
+
+5 possibilités
+
+[NOTE.speaker]
+====
+* 2 "locales": CleverCloud, OVH
+* 3 mainstream (AWS, GCP, Azure)
+
+Elimination
+
+====
+
+[.solution.background]
+== !
+
+image:images/clevercloud.svg[clevercloud]
+
+Deployment is one git push +
+Fully managed services
+
+
+[NOTE.speaker]
+====
+Au bout de 30 minutes, +
+Je ne connais pas, donc j'arrete
+====
+
+
+[.solution.background]
+== !
+
+image:images/aws.png[aws]
+
+[NOTE.speaker]
+====
+
+En moins d'une heure ::
+* Créé mon compte  (+ CB)
+* Instancié une machine
+* insyallé Java
+* ouvert les ports !!! (\o/)
+* Déployer et lancer JAR
+====
+
+[.succes.background]
+== !
+
+image:images/compteur.jpg[ihm]
+
+[NOTE.speaker]
+====
+Les compteurs comptent !!!!
+====
+
+[.hourglass.background]
+== !
+
+image:images/hourglass.png[hourglass, width=20%]
+
+0h00
+
+[NOTE.speaker]
+====
+Tic tac...  Il est 0h... +
+L'IHM était pas finie... +
+=> Peu de temps +
+=> Confiance du dev
+=> Loi des devs inutiles ! +
+On relève les manches, on code l'IHM (la vraie...)
+====
+
+[.succes.background]
+== !
+
+image:images/ihm.jpg[ihm]
+
+[NOTE.speaker]
+====
+Vers 1h00, 1h30...  +
+L'IHM est up, et en ligne !
+(grosso modo prete pour le lendemain vu le public qu'il y a !!!)
+====

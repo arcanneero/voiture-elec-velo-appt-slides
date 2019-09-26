@@ -11,8 +11,9 @@ var exec = require('gulp-exec');
 
 /** Imports Reveal */
 const map = require('map-stream');
-const asciidoctor = require('asciidoctor.js')();
-require('asciidoctor-reveal.js');
+const asciidoctor = require('asciidoctor')();
+var asciidoctorRevealjs = require('asciidoctor-reveal.js');
+asciidoctorRevealjs.register();
 
 /** Définition des constantes */
 
@@ -101,7 +102,8 @@ gulp.task('serveAndWatch', () => {
   gulp.watch(adocWatchExtensions, () => $.sequence('convert', browserSync.reload));
   gulp.watch(mediasExtensions, () => $.sequence('copy-medias', browserSync.reload));
   gulp.watch(cssExtensions, () => $.sequence('copy-css', browserSync.reload));
-  gulp.watch(jsExtensions, () => $.sequence('copy-js', browserSync.reload));
+gulp.watch(themesExtensions, () => $.sequence('copy-themes', browserSync.reload));
+gulp.watch(jsExtensions, () => $.sequence('copy-js', browserSync.reload));
   gulp.watch(mermaidWatchExtensions, () => $.sequence('copy-and-generate-mermaid-png', browserSync.reload));
 });
 
@@ -130,6 +132,7 @@ gulp.task('serve', cb => {
 
 function convertAdocToHtml() {
 
+    console.log(`convertAdocToHtml`);
   const attributes = {
       'revealjsdir': `${cdn}@`,
       'runtimePrezDir': `${runtimePrezDir}`

@@ -1,0 +1,71 @@
+[.part-4.background]
+= Défi relevé ?
+
+[NOTE.speaker]
+====
+Je vous laisse juger...
+====
+
+[.succes.background]
+== Quelques chiffres !
+
+== !
+
+15000 tours
+
+185 kms
+
+Relais de 24h
+
+[NOTE.speaker]
+====
+Toujours au moins un vélo en ligne !
+====
+
+[.problem.background]
+== En vrac ...
+
+[NOTE.speaker]
+====
+Depuis le début, on a fonctionner uniquement sur 3 lignes
+
+* Ligne de puissance qui à grillé.
+* Cassé un shield (redresseur)
+* Un compte tour qui n'a jamais fonctionné (GPIO)
+====
+
+[.problem.background]
+== Un mal pour un bien
+
+[NOTE.speaker]
+====
+* 10 Voitures
+* Patin de rechange
+* Pas les pneus
+* Rapper les caisses
+====
+
+
+[.end.background]
+== A retenir...
+
+Au delà des astuces techniques...
+
+[NOTE.speaker]
+====
+* Tentez vos projets, sur un malentendu, ca pourrait foncitonner...
+* Si vous avez des connaissance en dev, peu de choses peuvent vous arreter !
+====
+
+[.end.background]
+== Tentez vos projets
+
+[NOTE.speaker]
+====
+Sur second malentendu, vous pouriez en faire une conf !
+====
+
+[.end.background]
+== Merci à vous
+
+image:images/full-circuit.jpg[circuits]

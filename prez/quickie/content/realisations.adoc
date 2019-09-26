@@ -1,0 +1,205 @@
+[.part-2.background]
+= Réalisations, écueils, et dénouements !
+
+
+[NOTE.speaker]
+====
+* Contraintes
+* Les éléments réalisés
+* Les choix techniques
+====
+
+[.constraints.background]
+== Le banc de test !
+
+[.constraints.background]
+== !
+
+image:images/full-circuit.jpg[circuits]
+
+[NOTE.speaker]
+====
+* Un circuit "4 pièces"
+* Un perceuse
+* Une lame de carton blanc
+====
+
+[.constraints.background]
+== Pas d'intégration possible
+
+[NOTE.speaker]
+====
+* Pas le temps (délais)
+* Pas le matériel (moyens)
+* Pas les budgets (coûts)
+====
+
+[.constraints.background]
+== Tout doit être ajustable !!!
+
+[NOTE.speaker]
+====
+* La détection des voitures
+* La détection des pédales
+* La longeur des pistes
+====
+
+[.parts.background, transition=slide-in fade-out]
+== !
+
+image:images/composants-0.png[composants]
+
+[NOTE.speaker]
+====
+Passons aux composants
+Pour rappel...
+====
+
+[transition=fade]
+== !
+
+image:images/composants-1.png[composants]
+
+[NOTE.speaker]
+====
+Compsants basiques d'une appli orienté Web
+
+* Une API
+** Recueillir les call du Rasp / Faire les calculs, persister, et rendre les ihms
+* Une IHM
+** Suivre le défi / Server Send Event
+====
+
+[transition=fade]
+== !
+
+image:images/composants-2.png[composants]
+
+[NOTE.speaker]
+====
+Commencons par la chaine de traitement de données
+
+* Des capteurs infrarouges (1 par ligne)
+* Une arche
+* Raspberry
+** Call API (Je ne savais pas le faire en Arduino)
+====
+
+[transition=fade]
+== !
+
+image:images/composants-3.png[composants]
+
+[NOTE.speaker]
+====
+* Des capteurs infrarouges (1 par vélo - Problème ?)
+* Un Shield maison
+** Concentrer les branchements
+** Ajouter quelques bouton de paramétrage
+* Arduino
+====
+
+[transition=fade-in slide-out]
+== !
+
+image:images/composants-4.png[composants]
+
+[NOTE.speaker]
+====
+* Un Shield de commande moteur (Commerce) - Hacheur
+* Un Shied  maison lisser le courant
+* Une alimentation de PC
+** Stabilitée absolue (cf baby)
+** Pluggable facilement
+====
+
+[.focus.background]
+== Focus
+
+[NOTE.speaker]
+====
+* Choix des éléments logiciel
+* Focus sur les techos "hardware"
+====
+
+[.solution.background]
+== !
+
+image:images/composants-lang.png[composants]
+
+[NOTE.speaker]
+====
+* Angular => Clé en main
+* Springboot => Base de travail existante
+* Python => A priori le + simple, et base existante
+====
+
+[.problem.background]
+== Arduino VS Raspberry
+
+[NOTE.speaker]
+====
+Interaction matériel, quel est le plus simple ? ::
+* Pédales
+* Commande moteur
+* Compte tour
+====
+
+[.solution.background]
+== Arduino VS Raspberry
+
+1 - 0
+
+[NOTE.speaker]
+====
+Pédales / Commande moteur :::
+* Existance des shields moteur
+* Prise en main simple
+* Cout réduit
+====
+
+[.solution.background]
+== Arduino VS Raspberry
+
+1 - 1
+
+[NOTE.speaker]
+====
+Compte tour :::
+* Appel d'API
+* Reprise d'existant !!!
+====
+
+[.problem.background]
+== Le shield moteur est un hacheur !
+
+[NOTE.speaker]
+====
+Les voitures avances par accoups
+====
+
+[.problem.background]
+== !
+
+image:images/hacheur.png[composants]
+
+[.solution.background, transition=fade-out slide-in]
+== !
+
+image:images/shields.jpg[composants]
+
+[NOTE.speaker]
+====
+* Ligne de puissance pour redresser le courant
+* Shield maison
+====
+
+[.solution.background, transition=fade]
+== !
+
+image:images/shields-1.jpg[composants]
+
+[.solution.background, transition=fade]
+== !
+
+image:images/shields-2.jpg[composants]
