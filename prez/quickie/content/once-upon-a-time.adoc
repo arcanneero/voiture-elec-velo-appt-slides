@@ -1,0 +1,81 @@
+= Il était une fois...
+
+[NOTE.speaker]
+====
+
+Une histoire de famille
+
+====
+
+== !
+
+image:images/telethon.jpg[téléthon]
+
+[NOTE.speaker]
+====
+
+Un angegament associatif
+
+====
+
+== Le principe
+
+[NOTE.speaker]
+====
+* Trouver des idées (animation)
+* Lancer des défis physiques
+====
+
+== !
+
+image:images/circuit.jpg[circuit]
+
+[NOTE.speaker]
+====
+* Relais
+* Principe 24h du mans
+* Max de tours / distance
+====
+
+== !
+
+image:images/manette.jpg[manette]
+
+[NOTE.speaker]
+====
+* Défi physique limité...
+* Peu captivant / motivant
+====
+
+== !
+
+image:images/velo.jpg[velo]
+
+[NOTE.speaker]
+====
+* Vitesse de la voiture relative
+* Quelle distance ?
+====
+
+== !
+
+image:images/at-scale.jpg[A l'échelle]
+
+[NOTE.speaker]
+====
+* Vitesse de la voiture relative
+* Quelle distance ?
+====
+
+== !
+
+image:images/full.jpg[A l'échelle]
+
+[NOTE.speaker]
+====
+* Retour utilisateur
+* Quelques fonctions :
+** Accumulateur globale
+** Accumulateur par piste
+** Accumulateur par cycliste
+====

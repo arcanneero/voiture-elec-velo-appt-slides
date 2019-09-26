@@ -9,6 +9,16 @@
 
 (In progress)
 
+
+include::content/once-upon-a-time.adoc[leveloffset=+1]
+
+include::content/realisations.adoc[leveloffset=+1]
+
+include::content/d-day.adoc[leveloffset=+1]
+
+include::content/results.adoc[leveloffset=+1]
+
+
 [NOTE.speaker]
 ====
 ====

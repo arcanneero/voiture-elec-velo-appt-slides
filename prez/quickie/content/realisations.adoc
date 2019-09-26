@@ -1,0 +1,35 @@
+= Réalisations, écueils, et dénouements !
+
+== Le banc de test !
+
+[NOTE.speaker]
+====
+* Un circuit "4 pièces"
+* un perceuse
+====
+
+== Pas d'intégration possible
+
+[NOTE.speaker]
+====
+* Pas le temps (délais)
+* Pas le matériel (moyens)
+* PAs les budgets (cooûts)
+====
+
+== Tout doit être ajustable !!!
+
+[NOTE.speaker]
+====
+* La détection des voitures
+* La détection des pédales
+* La longeur des pistes
+====
+
+
+
+== Les composants logiciels
+
+[NOTE.speaker]
+====
+====
