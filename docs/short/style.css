@@ -1,8 +1,8 @@
 /**
  * Onepoint inspired theme for reveal.js
  */
-@import url("/themes/devfest/styles.css");
-@import url("/themes/devfest/semantic.css");
+@import url("../themes/devfest/styles.css");
+@import url("../themes/devfest/semantic.css");
 
 /**
  * Ajustements ici
