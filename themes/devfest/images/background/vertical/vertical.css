@@ -1,0 +1,425 @@
+html.vertical body {
+    background-repeat: no-repeat;
+    background-size: 25% 100%;
+}
+
+html.vertical.left section.present:not(.stack) {
+    padding-left: 28%;
+    max-width: 70%;
+    text-align: left;
+}
+
+html.vertical.right section.present:not(.stack) {
+    padding-right: 28%;
+    max-width: 70%;
+    text-align: right;
+}
+
+html.vertical.left.abstract1 body {
+    background-image: url("abstract1.jpg");
+}
+
+html.vertical.right.abstract1 body {
+    background-image: url("abstract1.jpg");
+    background-position:right;
+}
+html.vertical.left.abstract2 body {
+    background-image: url("abstract2.jpg");
+}
+
+html.vertical.right.abstract2 body {
+    background-image: url("abstract2.jpg");
+    background-position:right;
+}
+html.vertical.left.abstract3 body {
+    background-image: url("abstract3.jpg");
+}
+
+html.vertical.right.abstract3 body {
+    background-image: url("abstract3.jpg");
+    background-position:right;
+}
+html.vertical.left.abstract body {
+    background-image: url("abstract.jpg");
+}
+
+html.vertical.right.abstract body {
+    background-image: url("abstract.jpg");
+    background-position:right;
+}
+html.vertical.left.coffee body {
+    background-image: url("coffee.jpg");
+}
+
+html.vertical.right.coffee body {
+    background-image: url("coffee.jpg");
+    background-position:right;
+}
+html.vertical.left.doritos_bot body {
+    background-image: url("doritos_bot.jpg");
+}
+
+html.vertical.right.doritos_bot body {
+    background-image: url("doritos_bot.jpg");
+    background-position:right;
+}
+html.vertical.left.flags body {
+    background-image: url("flags.jpg");
+}
+
+html.vertical.right.flags body {
+    background-image: url("flags.jpg");
+    background-position:right;
+}
+html.vertical.left.forest1 body {
+    background-image: url("forest1.jpg");
+}
+
+html.vertical.right.forest1 body {
+    background-image: url("forest1.jpg");
+    background-position:right;
+}
+html.vertical.left.forest2 body {
+    background-image: url("forest2.jpg");
+}
+
+html.vertical.right.forest2 body {
+    background-image: url("forest2.jpg");
+    background-position:right;
+}
+html.vertical.left.forest body {
+    background-image: url("forest.jpg");
+}
+
+html.vertical.right.forest body {
+    background-image: url("forest.jpg");
+    background-position:right;
+}
+html.vertical.left.idea body {
+    background-image: url("idea.jpg");
+}
+
+html.vertical.right.idea body {
+    background-image: url("idea.jpg");
+    background-position:right;
+}
+html.vertical.left.laptop body {
+    background-image: url("laptop.jpg");
+}
+
+html.vertical.right.laptop body {
+    background-image: url("laptop.jpg");
+    background-position:right;
+}
+html.vertical.left.leaf1 body {
+    background-image: url("leaf1.jpg");
+}
+
+html.vertical.right.leaf1 body {
+    background-image: url("leaf1.jpg");
+    background-position:right;
+}
+html.vertical.left.leaf2 body {
+    background-image: url("leaf2.jpg");
+}
+
+html.vertical.right.leaf2 body {
+    background-image: url("leaf2.jpg");
+    background-position:right;
+}
+html.vertical.left.leaf3 body {
+    background-image: url("leaf3.jpg");
+}
+
+html.vertical.right.leaf3 body {
+    background-image: url("leaf3.jpg");
+    background-position:right;
+}
+html.vertical.left.leaf4 body {
+    background-image: url("leaf4.jpg");
+}
+
+html.vertical.right.leaf4 body {
+    background-image: url("leaf4.jpg");
+    background-position:right;
+}
+html.vertical.left.leaf5 body {
+    background-image: url("leaf5.jpg");
+}
+
+html.vertical.right.leaf5 body {
+    background-image: url("leaf5.jpg");
+    background-position:right;
+}
+html.vertical.left.leaf6 body {
+    background-image: url("leaf6.jpg");
+}
+
+html.vertical.right.leaf6 body {
+    background-image: url("leaf6.jpg");
+    background-position:right;
+}
+html.vertical.left.leaf body {
+    background-image: url("leaf.jpg");
+}
+
+html.vertical.right.leaf body {
+    background-image: url("leaf.jpg");
+    background-position:right;
+}
+html.vertical.left.men body {
+    background-image: url("men.jpg");
+}
+
+html.vertical.right.men body {
+    background-image: url("men.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean10 body {
+    background-image: url("ocean10.jpg");
+}
+
+html.vertical.right.ocean10 body {
+    background-image: url("ocean10.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean1 body {
+    background-image: url("ocean1.jpg");
+}
+
+html.vertical.right.ocean1 body {
+    background-image: url("ocean1.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean2 body {
+    background-image: url("ocean2.jpg");
+}
+
+html.vertical.right.ocean2 body {
+    background-image: url("ocean2.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean3 body {
+    background-image: url("ocean3.jpg");
+}
+
+html.vertical.right.ocean3 body {
+    background-image: url("ocean3.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean4 body {
+    background-image: url("ocean4.jpg");
+}
+
+html.vertical.right.ocean4 body {
+    background-image: url("ocean4.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean5 body {
+    background-image: url("ocean5.jpg");
+}
+
+html.vertical.right.ocean5 body {
+    background-image: url("ocean5.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean6 body {
+    background-image: url("ocean6.jpg");
+}
+
+html.vertical.right.ocean6 body {
+    background-image: url("ocean6.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean7 body {
+    background-image: url("ocean7.jpg");
+}
+
+html.vertical.right.ocean7 body {
+    background-image: url("ocean7.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean8 body {
+    background-image: url("ocean8.jpg");
+}
+
+html.vertical.right.ocean8 body {
+    background-image: url("ocean8.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean9 body {
+    background-image: url("ocean9.jpg");
+}
+
+html.vertical.right.ocean9 body {
+    background-image: url("ocean9.jpg");
+    background-position:right;
+}
+html.vertical.left.ocean body {
+    background-image: url("ocean.jpg");
+}
+
+html.vertical.right.ocean body {
+    background-image: url("ocean.jpg");
+    background-position:right;
+}
+html.vertical.left.people body {
+    background-image: url("people.jpg");
+}
+
+html.vertical.right.people body {
+    background-image: url("people.jpg");
+    background-position:right;
+}
+html.vertical.left.plant1 body {
+    background-image: url("plant1.jpg");
+}
+
+html.vertical.right.plant1 body {
+    background-image: url("plant1.jpg");
+    background-position:right;
+}
+html.vertical.left.plant body {
+    background-image: url("plant.jpg");
+}
+
+html.vertical.right.plant body {
+    background-image: url("plant.jpg");
+    background-position:right;
+}
+html.vertical.left.rock body {
+    background-image: url("rock.jpg");
+}
+
+html.vertical.right.rock body {
+    background-image: url("rock.jpg");
+    background-position:right;
+}
+html.vertical.left.screen1 body {
+    background-image: url("screen1.jpg");
+}
+
+html.vertical.right.screen1 body {
+    background-image: url("screen1.jpg");
+    background-position:right;
+}
+html.vertical.left.screen body {
+    background-image: url("screen.jpg");
+}
+
+html.vertical.right.screen body {
+    background-image: url("screen.jpg");
+    background-position:right;
+}
+html.vertical.left.sky body {
+    background-image: url("sky.jpg");
+}
+
+html.vertical.right.sky body {
+    background-image: url("sky.jpg");
+    background-position:right;
+}
+html.vertical.left.tower body {
+    background-image: url("tower.jpg");
+}
+
+html.vertical.right.tower body {
+    background-image: url("tower.jpg");
+    background-position:right;
+}
+html.vertical.left.waterfall body {
+    background-image: url("waterfall.jpg");
+}
+
+html.vertical.right.waterfall body {
+    background-image: url("waterfall.jpg");
+    background-position:right;
+}
+html.vertical.left.women1 body {
+    background-image: url("women1.jpg");
+}
+
+html.vertical.right.women1 body {
+    background-image: url("women1.jpg");
+    background-position:right;
+}
+html.vertical.left.women2 body {
+    background-image: url("women2.jpg");
+}
+
+html.vertical.right.women2 body {
+    background-image: url("women2.jpg");
+    background-position:right;
+}
+html.vertical.left.women3 body {
+    background-image: url("women3.jpg");
+}
+
+html.vertical.right.women3 body {
+    background-image: url("women3.jpg");
+    background-position:right;
+}
+html.vertical.left.women4 body {
+    background-image: url("women4.jpg");
+}
+
+html.vertical.right.women4 body {
+    background-image: url("women4.jpg");
+    background-position:right;
+}
+html.vertical.left.women body {
+    background-image: url("women.jpg");
+}
+
+html.vertical.right.women body {
+    background-image: url("women.jpg");
+    background-position:right;
+}
+html.vertical.left.worker1 body {
+    background-image: url("worker1.jpg");
+}
+
+html.vertical.right.worker1 body {
+    background-image: url("worker1.jpg");
+    background-position:right;
+}
+html.vertical.left.worker2 body {
+    background-image: url("worker2.jpg");
+}
+
+html.vertical.right.worker2 body {
+    background-image: url("worker2.jpg");
+    background-position:right;
+}
+html.vertical.left.worker body {
+    background-image: url("worker.jpg");
+}
+
+html.vertical.right.worker body {
+    background-image: url("worker.jpg");
+    background-position:right;
+}
+html.vertical.left.workers1 body {
+    background-image: url("workers1.jpg");
+}
+
+html.vertical.right.workers1 body {
+    background-image: url("workers1.jpg");
+    background-position:right;
+}
+html.vertical.left.workers body {
+    background-image: url("workers.jpg");
+}
+
+html.vertical.right.workers body {
+    background-image: url("workers.jpg");
+    background-position:right;
+}
+html.vertical.left.write_machine body {
+    background-image: url("write_machine.jpg");
+}
+
+html.vertical.right.write_machine body {
+    background-image: url("write_machine.jpg");
+    background-position:right;
+}

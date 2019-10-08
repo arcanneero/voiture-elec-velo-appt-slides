@@ -1,0 +1,360 @@
+.title h1 {
+    text-transform: none;
+}
+
+div.title {
+    background-repeat: no-repeat;
+    background-size: 20% auto;
+    background-image: url("logo/chevron.png");
+    background-position: 3% center;
+    padding-left: 28%;
+    max-width: 72%;
+}
+
+section.title.present:not(.stack) {
+    margin-left: 15%;
+}
+
+
+div.backgrounds .part-1 {
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position: center top;
+    background-image: url("images/bandeau-res.png");
+    background-color: #2c3659;
+}
+
+section.part-1.present:not(.stack) {
+    margin-top: 150px;
+    color: #ea951b;
+}
+
+.part-1 h2, .part-1 p {
+    text-shadow: none;
+    color: #ea951b;
+}
+
+
+div.backgrounds .who-i-am {
+    background-color: #2c3659;
+    background-repeat: no-repeat;
+    background-image: url("logo/arcann.png");
+    background-size: 15%;
+    background-position: 2% 10%;
+    padding-left: 30%;
+    max-width: 70%;
+}
+
+section.who-i-am.present:not(.stack) {
+}
+
+section.who-i-am.present {
+    background-color: rgba(255, 255, 255);
+    border-radius: 5em 0em;
+    margin: 0 10% ;
+    padding: 0 10% ;
+}
+
+.github p, .gitlab p, .twitter p {
+    color: #000;
+}
+
+.github p:before {
+    content: "";
+    display: inline-block;
+    background: url("images/github-icon.svg") no-repeat;
+    background-size: 100% 100%;
+    width: 80px;
+    height: 40px;
+    margin: 0 6px 0 0;
+}
+
+.gitlab p:after {
+    content: "";
+    display: inline-block;
+    background: url("images/gitlab.svg") no-repeat;
+    background-size: 100% 100%;
+    width: 80px;
+    height: 40px;
+    margin: 0 6px 0 0;
+}
+
+.twitter p:before {
+    content: "";
+    display: inline-block;
+    background: url("images/twitter.svg") no-repeat;
+    background-size: 100% 100%;
+    width: 120px;
+    height: 40px;
+    margin: 0 6px 0 0;
+}
+
+.twitter p:after {
+    content: "";
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    margin: 0 6px 0 0;
+}
+
+
+div.backgrounds .disclamers {
+    background-repeat: no-repeat;
+    background-size: 25% auto;
+    background-image: url("images/head.png");
+    background-position: 2% 2%;
+    padding-left: 28%;
+    max-width: 72%;
+    background-color: #000;
+}
+
+section.disclamers.present:not(.stack) {
+}
+
+.disclamers p {
+    color: #07836b;
+}
+
+div.backgrounds .part-2 {
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position: center top;
+    background-image: url("logo/DevFest2019_bandeau_twitter.jpg");
+    background-color: #871c45;
+
+}
+
+section.part-2.present:not(.stack) {
+    margin-top: 150px;
+    color: #07836b;
+}
+
+.part-2 h2, .part-2 p {
+    text-shadow: none;
+    color: #07836b;
+}
+
+div.backgrounds .constraints {
+    background-repeat: no-repeat;
+    background-size: 15% auto;
+    background-image: url("images/fox.png");
+    background-position: right 2%;
+    padding-right: 28%;
+    max-width: 72%;
+    background-color: #2c3659;
+}
+
+section.constraints.present:not(.stack) {
+}
+
+section.constraints.present {
+    background-color: rgba(255, 255, 255);
+    border-radius: 5em 0em;
+}
+
+section.constraints.present p, section.constraints.present h2 {
+    color: #000;
+}
+
+div.backgrounds .focus {
+    background-repeat: no-repeat;
+    background-size: 35% auto;
+    background-image: url("images/wave.png");
+    background-position: center 65%;
+    padding-right: 28%;
+    max-width: 72%;
+    background-color: #fff;
+}
+
+section.focus.present:not(.stack) {
+}
+
+section.focus.present {
+    background-color: transparent;
+}
+
+
+div.backgrounds .solution {
+    background-repeat: no-repeat;
+    background-size: 20% auto;
+    background-image: url("images/hands.png");
+    background-position: 2% bottom;
+    padding-left: 28%;
+    max-width: 72%;
+    background-color: #07836b;
+}
+
+section.solution.present:not(.stack) {
+}
+
+section.solution.present {
+    background-color: rgba(255, 255, 255);
+    border-radius: 0em 5em;
+}
+
+section.solution.present p, section.solution.present h2 {
+    color: #000;
+}
+
+div.backgrounds .problem {
+    background-repeat: no-repeat;
+    background-size: 20% auto;
+    background-image: url("images/tongue.png");
+    background-position: 2% 2%;
+    padding-left: 28%;
+    max-width: 72%;
+    background-color: #871c45;
+}
+
+section.problem.present:not(.stack) {
+}
+
+section.problem.present {
+    background-color: rgba(255, 255, 255);
+    border-radius: 5em 0em;
+}
+
+section.problem.present p, section.problem.present h2 {
+    color: #000;
+}
+
+div.backgrounds .part-3 {
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position: center top;
+    background-image: url("images/bandeau-mep.png");
+    background-color: #ea951b;
+}
+
+section.part-3.present:not(.stack) {
+    margin-top: 150px;
+    color: #2c3659;
+}
+
+.part-3 h2, .part-3 p {
+    text-shadow: none;
+    color: #2c3659;
+}
+
+section.hourglass img {
+    background-color: transparent;
+    opacity: 0.7;
+    color: #871c45;
+}
+
+div.backgrounds .hourglass {
+    background-repeat: no-repeat;
+    background-size: 40% auto;
+    background-image: url("images/spirale.png");
+    background-position: center center;
+    background-color: #000;
+    padding-left: 28%;
+    max-width: 72%;
+}
+
+section.hourglass.present:not(.stack) {
+}
+
+.hourglass h2 {
+    text-shadow: none;
+    color: #07836b;
+}
+
+html.hourglass body {;
+    background-color: #871c45;
+    color: #07836b;
+}
+
+section.hourglass .hour {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5em 0em;
+}
+
+
+div.backgrounds .montage {
+    background-repeat: no-repeat;
+    background-size: 20% auto;
+    background-image: url("images/rose-2.png");
+    background-position: 2% 2%;
+    padding-left: 28%;
+    max-width: 72%;
+    background-color: #2c3659;
+}
+
+section.montage.present:not(.stack) {
+}
+
+section.montage.present {
+    background-color: #fff;
+    border-radius: 5em 0em;
+    color: #871c45;
+}
+
+
+div.backgrounds .succes {
+    background-repeat: no-repeat;
+    background-size: 20% auto;
+    background-image: url("images/hands.png");
+    background-position: 2% bottom;
+    padding-left: 28%;
+    max-width: 72%;
+    background-color: #ea951b;
+}
+
+section.succes.present:not(.stack) {
+}
+
+section.succes.present {
+    background-color: #fff;
+    border-radius: 0em 10em;
+    color: #000;
+}
+
+section.succes.present p, section.succes.present h2 {
+    text-shadow: none;
+    color: #000;
+}
+
+div.backgrounds .part-4 {
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position: center top;
+    background-image: url("images/bandeau-nuages.png");
+    background-color: #07836b;
+}
+
+section.part-4.present:not(.stack) {
+    margin-top: 150px;
+    color: #871c45;
+}
+
+.part-4 h2, .part-4 p {
+    text-shadow: none;
+    color: #871c45;
+}
+
+
+div.backgrounds .end {
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-image: url("images/black-ban.png");
+    background-position: 0% center;
+    padding-left: 28%;
+    max-width: 72%;
+    background-color: #000;
+}
+
+section.end.present:not(.stack) {
+    margin-left: 150px;
+}
+
+section.end.present {
+}
+
+section.end.present p, section.end.present h2, section.end.present img {
+    text-shadow: none;
+    color: #ea951b;
+    background:transparent;
+}
+
+
