@@ -45,7 +45,12 @@ Quelques Tweets sur l'événement : https://twitter.com/nicgiro/status/107121955
 
 ### Resources
 
-[Les slides (In progress)]( ./quickie/#/)
+* Les slides du Quickie (15mins) : 
+    * [Devfest]( ./quickie/index-devfest.html/#/)
+    * [Onepoint]( ./quickie/index-onepoint.html/#/)
+* Les slides de la "mini" conf (30mins) : 
+    * [Devfest]( ./short/index-devfest.html/#/)
+    * [Onepoint]( ./short/index-onepoint.html/#/)
 
 ## Références 
 

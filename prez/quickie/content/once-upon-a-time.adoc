@@ -1,0 +1,130 @@
+[.part-1.background]
+= Il était une fois...
+
+[NOTE.speaker]
+====
+
+Une famille +
+Qui a un engagament familliale de longue date sur un évènement associatif +
+
+Imaginez vous à un repas de famille, +
+Entre la poire et le fromage +
+'Hey j'ai une idée..."
+
+???
+
+====
+
+[state=part-1]
+== !
+
+image:images/telethon.png[téléthon]
+
+[NOTE.speaker]
+====
+
+> Alias Téléthon
+
+Au delà de la récolte de fond, il 's'agit pour les colectifs locaux d'animer un évènement autours de défis plus ou moins 'liés au muscle'
+
+* Trouver des idées (animation)
+* Lancer des défis physiques
+====
+
+[.who-i-am.background, state=part-1]
+== Nicolas Giraud
+
+[.github.gitlab]
+arcanneero
+
+[.twitter]
+@nicgiro
+
+[.fragment]
+image:images/onepoint_black.png[onepoint, width=70%]
+
+[NOTE.speaker]
+====
+* Couteau suisse
+* Lead Tech Onepoint
+* Crafter (pas que software)
+====
+
+[state=part-1]
+== !
+
+image:images/circuit.jpg[circuit]
+
+[NOTE.speaker]
+====
+* Relais
+* Principe 24h du mans
+* Max de tours / distance
+====
+
+[state=part-1]
+== !
+
+image:images/manette.jpg[manette]
+
+[NOTE.speaker]
+====
+* Défi physique limité...
+* Peu captivant / motivant
+====
+
+[state=part-1]
+== !
+
+image:images/velo.jpg[velo, width=60%]
+
+[NOTE.speaker]
+====
+* Vitesse de la voiture relative
+* Quelle distance ?
+====
+
+[transition=slide-in fade-out, state=part-1]
+== !
+
+image:images/at-scale.jpg[A l'échelle]
+
+[NOTE.speaker]
+====
+* Mettre à l'échelle
+* => Minimum 4 Pistes / 4 vélos
+====
+
+[transition=slide-out fade-in, state=part-1]
+== !
+
+image:images/full.jpg[A l'échelle]
+
+[NOTE.speaker]
+====
+* Retour utilisateur
+* Quelques fonctions :
+** Accumulateur globale
+** Accumulateur par piste
+** Accumulateur par cycliste
+====
+
+[.disclamers.background, state=part-1]
+== !
+
+Pour *chaque difficultés* que j'ai rencontrées, +
+*chacun de vous* à une ou plusieurs idées +
+probablement meilleures ou plus simple *pour vous* +
+que celles que j'ai choisies et mises en oeuvre
+
+[NOTE.speaker]
+====
+La seule limite est le spectre de nos conaissances à  l'instant ou le problème s'est posé. +
+Avec en plus à certains moment une problématique des contraintes temporelles qui limites la réflexion
+====
+
+[.disclamers.background, state=part-1]
+== !
+
+*C'est une histoire, +
+pas un manuel de (bonnes) pratiques !*
