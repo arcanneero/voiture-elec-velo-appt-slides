@@ -1,0 +1,139 @@
+[.part-2.background]
+= Réalisations, écueils, et dénouements !
+
+
+[NOTE.speaker]
+====
+* Contraintes
+* Les éléments réalisés
+* Les choix techniques
+====
+
+[.constraints.background, state=part-2]
+== Contraintes
+
+[.fragment]
+Le banc de test !
+
+[.fragment]
+Pas d'intégration possible
+
+[.fragment]
+Tout doit être ajustable !!!
+
+[NOTE.speaker]
+====
+* Un circuit "4 pièces" + Un perceuse + Une lame de carton blanc
+* Délais, couts, moyens
+* Vélos, voitures, longeur des pistes
+====
+
+[.parts.background, transition=slide-in fade-out, state=part-2]
+== !
+
+image:images/composants-0.png[composants]
+
+[NOTE.speaker]
+====
+Passons aux composants
+Pour rappel...
+====
+
+[transition=fade, state=part-2]
+== !
+
+image:images/composants-1.png[composants]
+
+[NOTE.speaker]
+====
+Compsants basiques d'une appli orienté Web
+
+* Une API
+** Recueillir les call du Rasp / Faire les calculs, persister, et rendre les ihms
+* Une IHM
+** Suivre le défi / Server Send Event
+====
+
+[transition=fade, state=part-2]
+== !
+
+image:images/composants-2.png[composants]
+
+[NOTE.speaker]
+====
+Commencons par la chaine de traitement de données
+
+* Des capteurs infrarouges (1 par ligne)
+* Une arche
+* Raspberry
+** Call API (Je ne savais pas le faire en Arduino)
+====
+
+[transition=fade, state=part-2]
+== !
+
+image:images/composants-3.png[composants]
+
+[NOTE.speaker]
+====
+* Des capteurs infrarouges (1 par vélo - Problème ?)
+* Un Shield maison
+** Concentrer les branchements
+** Ajouter quelques bouton de paramétrage
+* Arduino
+====
+
+[transition=fade-in slide-out, state=part-2]
+== !
+
+image:images/composants-4.png[composants]
+
+[NOTE.speaker]
+====
+* Un Shield de commande moteur (Commerce) - Hacheur
+* Un Shied  maison lisser le courant
+* Une alimentation de PC
+** Stabilitée absolue (cf baby)
+** Pluggable facilement
+
+Si < 7 mins
+====
+
+[.focus.background, state=part-2]
+== Focus
+
+[NOTE.speaker]
+====
+* Focus sur les techos "hardware"
+====
+
+[.problem.background, state=part-2]
+== !
+
+Le shield moteur est un hacheur !
+
+[NOTE.speaker]
+====
+Les voitures avances par accoups
+====
+
+[.solution.background, transition=fade-out slide-in, state=part-2]
+== !
+
+image:images/shields.jpg[composants]
+
+[NOTE.speaker]
+====
+* Ligne de puissance pour redresser le courant
+* Shield maison
+====
+
+[.solution.background, transition=fade, state=part-2]
+== !
+
+image:images/shields-1.jpg[composants]
+
+[.solution.background, transition=fade, state=part-2]
+== !
+
+image:images/shields-2.jpg[composants]

@@ -123,9 +123,9 @@ gulp.task('default', cb =>
 
 // Build dev files
 gulp.task('serve', cb => {
-    runtimePrezDir = '/';
-    cdn = '/node_modules/reveal.js';
-      $.sequence('default', 'serveAndWatch', cb)
+        runtimePrezDir = '/';
+        cdn = '/node_modules/reveal.js';
+        $.sequence('default', 'serveAndWatch', cb)
     }
 );
 
@@ -135,14 +135,20 @@ function convertAdocToHtml() {
     console.log(`convertAdocToHtml`);
   const attributes = {
       'revealjsdir': `${cdn}@`,
-      'runtimePrezDir': `${runtimePrezDir}`
+      'runtimePrezDir': `${runtimePrezDir}`,
+      revealjsDefaultTiming : 30,
+      revealjs_defaultTiming : 30,
+      defaultTiming : 30
   };
   const options = {
     safe: 'safe',
     backend: 'revealjs',
     attributes: attributes,
     to_file: false,
-    header_footer: true
+    header_footer: true,
+      revealjsDefaultTiming : 30,
+      revealjs_defaultTiming : 30,
+      defaultTiming : 30
   };
 
   return map((file, next) => {
