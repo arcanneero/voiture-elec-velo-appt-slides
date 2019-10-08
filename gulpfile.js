@@ -23,7 +23,7 @@ const srcDir = 'prez';
 const outDir = 'docs';
 // Dossier racine des presentations au runtime (=path d'accès dans l'url. ex: http://..../prez)
 let runtimePrezDir = '/voiture-elec-velo-appt-slides/';
-let cdn = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0';
+let cdn = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.7.0';
 // Dossier de sortie du build des présentations
 const prezOutDir = `${outDir}`;
 
