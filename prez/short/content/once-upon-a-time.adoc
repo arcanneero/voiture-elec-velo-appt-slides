@@ -5,7 +5,7 @@
 ====
 
 Une famille +
-Qui a un engagament familliale de longue date sur un évènement associatif +
+Qui a un engagement familial de longue date sur un évènement associatif +
 
 Imaginez vous à un repas de famille, +
 Entre la poire et le fromage +
@@ -25,7 +25,7 @@ image:images/telethon.png[téléthon]
 
 > Alias Téléthon
 
-Au delà de la récolte de fond, il 's'agit pour les colectifs locaux d'animer un évènement autours de défis plus ou moins 'liés au muscle'
+Au-delà de la récolte de fond, il s'agit pour les collectifs locaux d'animer un évènement autour de défis plus ou moins 'liés au muscle'
 
 * Trouver des idées (animation)
 * Lancer des défis physiques
@@ -104,7 +104,7 @@ image:images/full.jpg[A l'échelle]
 ====
 * Retour utilisateur
 * Quelques fonctions :
-** Accumulateur globale
+** Accumulateur global
 ** Accumulateur par piste
 ** Accumulateur par cycliste
 ====
@@ -112,15 +112,15 @@ image:images/full.jpg[A l'échelle]
 [.disclamers.background, state=part-1]
 == !
 
-Pour *chaque difficultés* que j'ai rencontrées, +
-*chacun de vous* à une ou plusieurs idées +
-probablement meilleures ou plus simple *pour vous* +
+Pour *chaque difficulté* que j'ai rencontrée, +
+*chacun de vous* a une ou plusieurs idées +
+probablement meilleures ou plus simples *pour vous* +
 que celles que j'ai choisies et mises en oeuvre
 
 [NOTE.speaker]
 ====
 La seule limite est le spectre de nos conaissances à  l'instant ou le problème s'est posé. +
-Avec en plus à certains moment une problématique des contraintes temporelles qui limites la réflexion
+Avec en plus à certains moments une problématique, des contraintes temporelles qui limitent la réflexion
 ====
 
 [.disclamers.background, state=part-1]
