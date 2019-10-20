@@ -21,7 +21,7 @@ image:images/hourglass.png[hourglass, width=20%]
 ====
 Tic tac... +
 16h... Lancement à 19h30 ! +
-Le compte à rebour est lancé...
+Le compte à rebours est lancé...
 ====
 
 [.montage.background, state=part-3]
@@ -60,11 +60,11 @@ image:images/raccordement.png[composants]
 [NOTE.speaker]
 ====
 * Capteur capte,
-* Envoie ses infoa à l'arduino
+* Envoie ses infos à l'arduino
 * Commande le shield
 * Qui hash le courant de l'alimentation
 * Qui est redressé par le shield
-* Et envoyé au voitures
+* Et envoyé aux voitures
 ====
 
 
@@ -77,7 +77,7 @@ image:images/parametrage.jpg[composants, width=80%]
 [NOTE.speaker]
 ====
 * Coefficient de correction
-* Capteurs infrarouge
+* Capteurs infrarouges
 ====
 
 [.hourglass.background, state=part-3]
@@ -92,7 +92,7 @@ image:images/hourglass.png[hourglass, width=20%]
 ====
 Tic tac... +
 Il est 19h... +
-Il va falloire passer à la collecte...
+Il va falloir passer à la collecte...
 ====
 
 [.succes.background, state=part-3]
@@ -108,7 +108,7 @@ image:images/collecte.png[collecte]
 
 [NOTE.speaker]
 ====
-Chaine de collecte ::
+Chaîne de collecte ::
 * Un vidéo, un cable HDMI/VGA
 * L'API/ lIHM sont sur mon poste
 * Pas prod ready, mais c'est de l'évènementiel
@@ -121,7 +121,7 @@ image:images/what.gif[youpi]
 
 [NOTE.speaker]
 ====
-* Il semble que le lien fonctionne pas...
+* Il semble que le lien ne fonctionne pas...
 * 2 heures de débug !
 ====
 
@@ -178,7 +178,7 @@ image:images/hourglass.png[hourglass, width=20%]
 ====
 Tic tac... +
 Il est 22h... +
-Il va falloire passer à la collecte...
+Une idée mais pas de solutions...
 ====
 
 [.problem.background, state=part-3]
@@ -215,7 +215,7 @@ Fully managed services
 [NOTE.speaker]
 ====
 Au bout de 30 minutes, +
-Je ne connais pas, donc j'arrete
+Je ne connais pas, donc j'arrête
 ====
 
 
@@ -230,9 +230,9 @@ image:images/aws.png[aws, width=50%]
 En moins d'une heure ::
 * Créé mon compte  (+ CB)
 * Instancié une machine
-* insyallé Java
-* ouvert les ports !!! (\o/)
-* Déployer et lancer JAR
+* Installé Java
+* Ouvert les ports !!! (\o/)
+* Déployé et lancé JAR
 ====
 
 [.succes.background, state=part-3]
@@ -256,7 +256,7 @@ image:images/hourglass.png[hourglass, width=20%]
 [NOTE.speaker]
 ====
 Tic tac...  Il est 0h... +
-L'IHM était pas finie... +
+L'IHM n'était pas finie... +
 => Peu de temps +
 => Confiance du dev
 => Loi des devs inutiles ! +

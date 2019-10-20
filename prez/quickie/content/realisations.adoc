@@ -1,5 +1,5 @@
 [.part-2.background]
-= Réalisations, écueils, et dénouements !
+= Réalisations, écueils, et dénouement !
 
 
 [NOTE.speaker]
@@ -24,8 +24,8 @@ Tout doit être ajustable !!!
 [NOTE.speaker]
 ====
 * Un circuit "4 pièces" + Un perceuse + Une lame de carton blanc
-* Délais, couts, moyens
-* Vélos, voitures, longeur des pistes
+* Délais, coûts, moyens
+* Vélos, voitures, longueur des pistes
 ====
 
 [.parts.background, transition=slide-in fade-out, state=part-2]
@@ -46,7 +46,7 @@ image:images/composants-1.png[composants]
 
 [NOTE.speaker]
 ====
-Compsants basiques d'une appli orienté Web
+Composants basiques d'une appli orientée Web
 
 * Une API
 ** Recueillir les call du Rasp / Faire les calculs, persister, et rendre les ihms
@@ -61,7 +61,7 @@ image:images/composants-2.png[composants]
 
 [NOTE.speaker]
 ====
-Commencons par la chaine de traitement de données
+Commençons par la chaîne de traitement de données
 
 * Des capteurs infrarouges (1 par ligne)
 * Une arche
@@ -79,7 +79,7 @@ image:images/composants-3.png[composants]
 * Des capteurs infrarouges (1 par vélo - Problème ?)
 * Un Shield maison
 ** Concentrer les branchements
-** Ajouter quelques bouton de paramétrage
+** Ajouter quelques boutons de paramétrage
 * Arduino
 ====
 
@@ -91,9 +91,9 @@ image:images/composants-4.png[composants]
 [NOTE.speaker]
 ====
 * Un Shield de commande moteur (Commerce) - Hacheur
-* Un Shied  maison lisser le courant
+* Un Shield maison - lisser le courant
 * Une alimentation de PC
-** Stabilitée absolue (cf baby)
+** Stabilité absolue (cf baby)
 ** Pluggable facilement
 
 Si < 7 mins
@@ -104,7 +104,7 @@ Si < 7 mins
 
 [NOTE.speaker]
 ====
-* Focus sur les techos "hardware"
+* Focus sur les technos "hardware"
 ====
 
 [.problem.background, state=part-2]
@@ -114,7 +114,7 @@ Le shield moteur est un hacheur !
 
 [NOTE.speaker]
 ====
-Les voitures avances par accoups
+Les voitures avancent par à-coups
 ====
 
 [.solution.background, transition=fade-out slide-in, state=part-2]

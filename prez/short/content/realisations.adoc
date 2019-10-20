@@ -1,5 +1,5 @@
 [.part-2.background]
-= Réalisations, écueils, et dénouements !
+= Réalisations, écueils, et dénouement !
 
 
 [NOTE.speaker]
@@ -41,7 +41,7 @@ image:images/full-circuit.jpg[circuits]
 ====
 * La détection des voitures
 * La détection des pédales
-* La longeur des pistes
+* La longueur des pistes
 ====
 
 [.parts.background, transition=slide-in fade-out, state=part-2]
@@ -62,7 +62,7 @@ image:images/composants-1.png[composants]
 
 [NOTE.speaker]
 ====
-Compsants basiques d'une appli orienté Web
+Composants basiques d'une appli orientée Web
 
 * Une API
 ** Recueillir les call du Rasp / Faire les calculs, persister, et rendre les ihms
@@ -77,7 +77,7 @@ image:images/composants-2.png[composants]
 
 [NOTE.speaker]
 ====
-Commencons par la chaine de traitement de données
+Commençons par la chaîne de traitement de données
 
 * Des capteurs infrarouges (1 par ligne)
 * Une arche
@@ -107,9 +107,9 @@ image:images/composants-4.png[composants]
 [NOTE.speaker]
 ====
 * Un Shield de commande moteur (Commerce) - Hacheur
-* Un Shied  maison lisser le courant
+* Un Shied  maison - lisser le courant
 * Une alimentation de PC
-** Stabilitée absolue (cf baby)
+** Stabilité absolue (cf baby)
 ** Pluggable facilement
 ====
 
@@ -118,8 +118,8 @@ image:images/composants-4.png[composants]
 
 [NOTE.speaker]
 ====
-* Choix des éléments logiciel
-* Focus sur les techos "hardware"
+* Choix des éléments logiciels
+* Focus sur les technos "hardware"
 ====
 
 [.solution.background, state=part-2]
@@ -142,7 +142,7 @@ image:images/composants-lang.png[composants]
 Interaction matériel, quel est le plus simple ? ::
 * Pédales
 * Commande moteur
-* Compte tour
+* Compte-tour
 ====
 
 [.solution.background, state=part-2]
@@ -153,9 +153,9 @@ Interaction matériel, quel est le plus simple ? ::
 [NOTE.speaker]
 ====
 Pédales / Commande moteur :::
-* Existance des shields moteur
+* Existence des shields moteur
 * Prise en main simple
-* Cout réduit
+* Coût réduit
 ====
 
 [.solution.background, state=part-2]
@@ -165,7 +165,7 @@ Pédales / Commande moteur :::
 
 [NOTE.speaker]
 ====
-Compte tour :::
+Compte-tour :::
 * Appel d'API
 * Reprise d'existant !!!
 ====
@@ -177,7 +177,7 @@ Le shield moteur est un hacheur !
 
 [NOTE.speaker]
 ====
-Les voitures avances par accoups
+Les voitures avancent par à-coups
 ====
 
 [.problem.background, state=part-2]

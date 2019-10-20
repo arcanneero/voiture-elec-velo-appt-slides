@@ -28,11 +28,11 @@ Toujours au moins un vélo en ligne !
 
 [NOTE.speaker]
 ====
-Depuis le début, on a fonctionner uniquement sur 3 lignes
+Depuis le début, on a fonctionné uniquement sur 3 lignes
 
-* Ligne de puissance qui à grillé.
+* Ligne de puissance qui a grillé.
 * Cassé un shield (redresseur)
-* Un compte tour qui n'a jamais fonctionné (GPIO)
+* Un compte-tours qui n'a jamais fonctionné (GPIO)
 ====
 
 [.problem.background, state=part-4]
@@ -41,9 +41,9 @@ Depuis le début, on a fonctionner uniquement sur 3 lignes
 [NOTE.speaker]
 ====
 * 10 Voitures
-* Patin de rechange
+* Patins de rechange
 * Pas les pneus
-* Rapper les caisses
+* Râper les caisses
 ====
 
 
@@ -57,8 +57,8 @@ image:images/full-circuit.jpg[circuits, width=60%]
 
 [NOTE.speaker]
 ====
-* Tentez vos projets, sur un malentendu, ca pourrait foncitonner...
-* Si vous avez des connaissance en dev, peu de choses peuvent vous arreter !
+* Tentez vos projets, sur un malentendu, ça pourrait fonctionner...
+* Si vous avez des connaissances en dev, peu de choses peuvent vous arrêter !
 ====
 
 [.end.background, state=part-4]
@@ -67,7 +67,7 @@ image:images/full-circuit.jpg[circuits, width=60%]
 
 [NOTE.speaker]
 ====
-Sur second malentendu, vous pouriez en faire une conf !
+Sur un second malentendu, vous pourriez en faire une conf !
 ====
 
 [.end.background, state=part-4]
