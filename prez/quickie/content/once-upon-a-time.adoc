@@ -3,19 +3,18 @@
 
 [NOTE.speaker]
 ====
+\... une famille +
+Qui a un engagement de longue date sur un évènement associatif +
 
-Une famille +
-Qui a un engagement familial de longue date sur un évènement associatif +
-
-Imaginez vous à un repas de famille, +
-Entre la poire et le fromage +
+Imaginez cette famille à un repas +
+Au milieu des discussions, vient le sujet du Téléthon +
 'Hey j'ai une idée..."
 
 ???
 
 ====
 
-[state=part-1]
+[.focus.background, state=part-1]
 == !
 
 image:images/telethon.png[téléthon]
@@ -50,7 +49,7 @@ image:images/onepoint_black.png[onepoint, width=70%]
 * Crafter (pas que software)
 ====
 
-[state=part-1]
+[.focus.background, state=part-1]
 == !
 
 image:images/circuit.jpg[circuit]
@@ -58,11 +57,11 @@ image:images/circuit.jpg[circuit]
 [NOTE.speaker]
 ====
 * Relais
-* Principe 24h du mans
+* Principe 24h du Mans
 * Max de tours / distance
 ====
 
-[state=part-1]
+[.focus.background, state=part-1]
 == !
 
 image:images/manette.jpg[manette]
@@ -73,7 +72,7 @@ image:images/manette.jpg[manette]
 * Peu captivant / motivant
 ====
 
-[state=part-1]
+[.focus.background, state=part-1]
 == !
 
 image:images/velo.jpg[velo, width=60%]
@@ -84,7 +83,7 @@ image:images/velo.jpg[velo, width=60%]
 * Quelle distance ?
 ====
 
-[transition=slide-in fade-out, state=part-1]
+[.focus.background, transition=slide-in fade-out, state=part-1]
 == !
 
 image:images/at-scale.jpg[A l'échelle]
@@ -95,7 +94,7 @@ image:images/at-scale.jpg[A l'échelle]
 * => Minimum 4 Pistes / 4 vélos
 ====
 
-[transition=slide-out fade-in, state=part-1]
+[.focus.background, transition=slide-out fade-in, state=part-1]
 == !
 
 image:images/full.jpg[A l'échelle]
@@ -110,16 +109,16 @@ image:images/full.jpg[A l'échelle]
 ====
 
 [.disclamers.background, state=part-1]
-== !
+== Disclamer
 
+[NOTE.speaker]
+====
 Pour *chaque difficulté* que j'ai rencontrée, +
 *chacun de vous* a une ou plusieurs idées +
 probablement meilleures ou plus simples *pour vous* +
 que celles que j'ai choisies et mises en œuvre
 
-[NOTE.speaker]
-====
-La seule limite est le spectre de nos connaissances à  l'instant ou le problème s'est posé. +
+La seule limite est le spectre de nos connaissances à  l'instant où le problème s'est posé. +
 Avec en plus à certains moments une problématique, des contraintes temporelles qui limitent la réflexion
 ====
 
@@ -128,3 +127,9 @@ Avec en plus à certains moments une problématique, des contraintes temporelles
 
 *C'est une histoire, +
 pas un manuel de (bonnes) pratiques !*
+
+[NOTE.speaker]
+====
+La seule limite est le spectre de nos connaissances à  l'instant où le problème s'est posé. +
+Avec en plus à certains moments une problématique, des contraintes temporelles qui limitent la réflexion
+====

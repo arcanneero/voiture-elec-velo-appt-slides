@@ -10,25 +10,36 @@
 ====
 
 [.constraints.background, state=part-2]
-== Contraintes
-
-[.fragment]
-Le banc de test !
-
-[.fragment]
-Pas d'intégration possible
-
-[.fragment]
-Tout doit être ajustable !!!
+== Le banc de test !
 
 [NOTE.speaker]
 ====
-* Un circuit "4 pièces" + Un perceuse + Une lame de carton blanc
-* Délais, coûts, moyens
-* Vélos, voitures, longueur des pistes
+* Un circuit "4 pièces"
+* Une perceuse
+* Une lame de carton blanc
 ====
 
-[.parts.background, transition=slide-in fade-out, state=part-2]
+[.constraints.background, state=part-2]
+== Pas d'intégration possible
+
+[NOTE.speaker]
+====
+* Pas le temps (délais)
+* Pas le matériel (moyens)
+* Pas les budgets (coûts)
+====
+
+[.constraints.background, state=part-2]
+== Tout doit être ajustable !!!
+
+[NOTE.speaker]
+====
+* La détection des voitures
+* La détection des pédales
+* La longueur des pistes
+====
+
+[.components.backgrounds, transition=slide-in fade-out, state=part-2]
 == !
 
 image:images/composants-0.png[composants]
@@ -39,7 +50,7 @@ Passons aux composants
 Pour rappel...
 ====
 
-[transition=fade, state=part-2]
+[.components.backgrounds, transition=fade, state=part-2]
 == !
 
 image:images/composants-1.png[composants]
@@ -54,7 +65,7 @@ Composants basiques d'une appli orientée Web
 ** Suivre le défi / Server Send Event
 ====
 
-[transition=fade, state=part-2]
+[.components.backgrounds, transition=fade, state=part-2]
 == !
 
 image:images/composants-2.png[composants]
@@ -69,7 +80,7 @@ Commençons par la chaîne de traitement de données
 ** Call API (Je ne savais pas le faire en Arduino)
 ====
 
-[transition=fade, state=part-2]
+[.components.backgrounds, transition=fade, state=part-2]
 == !
 
 image:images/composants-3.png[composants]
@@ -83,7 +94,7 @@ image:images/composants-3.png[composants]
 * Arduino
 ====
 
-[transition=fade-in slide-out, state=part-2]
+[.components.backgrounds, transition=fade-in slide-out, state=part-2]
 == !
 
 image:images/composants-4.png[composants]
@@ -96,15 +107,7 @@ image:images/composants-4.png[composants]
 ** Stabilité absolue (cf baby)
 ** Pluggable facilement
 
-Si < 7 mins
-====
-
-[.focus.background, state=part-2]
-== Focus
-
-[NOTE.speaker]
-====
-* Focus sur les technos "hardware"
+Si < 7 mins => focus hardware
 ====
 
 [.problem.background, state=part-2]
