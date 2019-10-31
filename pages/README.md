@@ -17,6 +17,7 @@ Et cerise sur le gâteau, les aléas techniques m'ont conduit jusqu'à déployer
 
 ## Détails
 
+
 ### Plan
 
 * Il était une fois... (4 min)
@@ -51,6 +52,13 @@ Quelques Tweets sur l'événement : https://twitter.com/nicgiro/status/107121955
 * Les slides de la "mini" conf (30mins) : 
     * [Devfest]( ./short/index-devfest.html/#/)
     * [Onepoint]( ./short/index-onepoint.html/#/)
+* Captation vidéo :
+    * [Devfest Nantes](https://www.youtube.com/watch?v=PYldMeoL9F0)
+* Les dépots de code : 
+    * [Arduino](https://github.com/arcanneero/iot-for-play)
+    * [Api et IHM](https://github.com/arcanneero/24h-de-no)
+  
+  
 
 ## Références 
 
