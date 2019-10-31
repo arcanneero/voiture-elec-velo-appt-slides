@@ -47,11 +47,11 @@ Quelques Tweets sur l'événement : https://twitter.com/nicgiro/status/107121955
 ### Resources
 
 * Les slides du Quickie (15mins) : 
-    * [Devfest]( ./quickie/index-devfest.html/#/)
-    * [Onepoint]( ./quickie/index-onepoint.html/#/)
+    * [Devfest]( ./quickie/index-devfest.html)
+    * [Onepoint]( ./quickie/index-onepoint.html)
 * Les slides de la "mini" conf (30mins) : 
-    * [Devfest]( ./short/index-devfest.html/#/)
-    * [Onepoint]( ./short/index-onepoint.html/#/)
+    * [Devfest]( ./short/index-devfest.html)
+    * [Onepoint]( ./short/index-onepoint.html)
 * Captation vidéo :
     * [Devfest Nantes](https://www.youtube.com/watch?v=PYldMeoL9F0)
 * Les dépots de code : 
