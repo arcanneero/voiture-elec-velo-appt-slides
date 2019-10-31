@@ -60,10 +60,10 @@ image:images/raccordement.png[composants]
 
 [NOTE.speaker]
 ====
-* Capteur capte,
-* Envoie ses infos à l'arduino
+* Le capteur capte,
+* Envoie ses informations à l'arduino
 * Commande le shield
-* Qui hash le courant de l'alimentation
+* Qui hache le courant de l'alimentation
 * Qui est redressé par le shield
 * Et envoyé aux voitures
 ====
