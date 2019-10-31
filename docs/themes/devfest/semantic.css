@@ -49,10 +49,9 @@ section.who-i-am.present:not(.stack) {
 }
 
 section.who-i-am.present {
-    background-color: rgba(255, 255, 255);
-    border-radius: 5em 0em;
-    margin: 0 10% ;
-    padding: 0 10% ;
+    background-color: rgb(255, 255, 255);
+    border-radius: .5em .5em;
+    margin: 0 10%;
 }
 
 .github p, .gitlab p, .twitter p {
@@ -148,29 +147,46 @@ section.constraints.present:not(.stack) {
 }
 
 section.constraints.present {
-    background-color: rgba(255, 255, 255);
-    border-radius: 5em 0em;
+    background-color: rgb(255, 255, 255);
+    border-radius: .5em .5em;
 }
 
 section.constraints.present p, section.constraints.present h2 {
     color: #000;
 }
 
-div.backgrounds .focus {
+div.backgrounds .components {
     background-repeat: no-repeat;
-    background-size: 35% auto;
-    background-image: url("images/wave.png");
+    background-size: 100% 100%;
+    background-image: url("images/fond_claire.png");
     background-position: center 65%;
     padding-right: 28%;
     max-width: 72%;
-    background-color: #fff;
+}
+
+section.components.present:not(.stack) {
+}
+
+section.components.present {
+    background-color: rgb(255, 255, 255);
+    border-radius: .5em .5em;
+}
+
+div.backgrounds .focus {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url("images/fond_claire.png");
+    background-position: center 65%;
+    padding-right: 28%;
+    max-width: 72%;
 }
 
 section.focus.present:not(.stack) {
 }
 
 section.focus.present {
-    background-color: transparent;
+    background-color: rgb(255, 255, 255);
+    border-radius: .5em .5em;
 }
 
 
@@ -188,8 +204,8 @@ section.solution.present:not(.stack) {
 }
 
 section.solution.present {
-    background-color: rgba(255, 255, 255);
-    border-radius: 0em 5em;
+    background-color: rgb(255, 255, 255);
+    border-radius: .5em .5em;
 }
 
 section.solution.present p, section.solution.present h2 {
@@ -210,8 +226,8 @@ section.problem.present:not(.stack) {
 }
 
 section.problem.present {
-    background-color: rgba(255, 255, 255);
-    border-radius: 5em 0em;
+    background-color: rgb(255, 255, 255);
+    border-radius: .5em .5em;
 }
 
 section.problem.present p, section.problem.present h2 {
@@ -266,8 +282,8 @@ html.hourglass body {;
 }
 
 section.hourglass .hour {
-    background-color: rgba(255, 255, 255, 0.8);
-    border-radius: 5em 0em;
+    background-color: rgb(255, 255, 255);
+    border-radius: .5em .5em;
 }
 
 
@@ -286,7 +302,7 @@ section.montage.present:not(.stack) {
 
 section.montage.present {
     background-color: #fff;
-    border-radius: 5em 0em;
+    border-radius: .5em .5em;
     color: #871c45;
 }
 
@@ -306,7 +322,7 @@ section.succes.present:not(.stack) {
 
 section.succes.present {
     background-color: #fff;
-    border-radius: 0em 10em;
+    border-radius: .5em .5em;
     color: #000;
 }
 
@@ -345,7 +361,6 @@ div.backgrounds .end {
 }
 
 section.end.present:not(.stack) {
-    margin-left: 150px;
 }
 
 section.end.present {

@@ -1,5 +1,5 @@
 [.main-title.background]
-= Comment j'ai fini par déployer à 2h du matin une application sur AWS pour piloter des voitures électriques avec un vélo d'appartement.
+= Comment j'ai fini par déployer, à 2h du matin, une application sur AWS, pour piloter des voitures électriques avec un vélo d'appartement.
 :source-highlighter: highlightjs
 :revealjs_theme: league
 :revealjs_progress: true
@@ -8,6 +8,14 @@
 :revealjs_history: true
 :customcss: {runtimePrezDir}short/style-devfest.css
 
+[NOTE.speaker]
+====
+
+Bonjour à tous +
+Et merci d'être venu écouter comment j'ai ... +
+Et comme toute histoire, je vais commencer par faire appel à votre imagination.
+
+====
 
 include::content/once-upon-a-time.adoc[leveloffset=+1]
 

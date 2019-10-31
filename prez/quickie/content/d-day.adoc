@@ -6,7 +6,8 @@ alias MEP
 [NOTE.speaker]
 ====
 Le fil rouge... +
-Animation continue, et quelque peu centrale...
+Animation continue, et quelque peu centrale... +
+Timeline
 ====
 
 [.hourglass.background, state=part-3]
@@ -109,7 +110,7 @@ image:images/collecte.png[collecte]
 Chaîne de collecte ::
 * Un vidéo, un câble HDMI/VGA
 * L'API/ lIHM sont sur mon poste
-* Pas prod ready, mais c'est de l'évènementiel
+* Pas prod ready, mais c'est de l'http://évènementiel[évènementiel]
 ====
 
 [.problem.background, state=part-3]
@@ -254,6 +255,7 @@ image:images/hourglass.png[hourglass, width=20%]
 [NOTE.speaker]
 ====
 Tic tac...  Il est 0h... +
+Pas 2h du matin...
 L'IHM n'était pas finie... +
 => Peu de temps +
 => Confiance du dev
